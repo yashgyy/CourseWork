@@ -1,0 +1,18 @@
+There are three spots where hash is not checked where  Executable does not check for Hash Signature
+
+the Checksum in the optional Windows specific header. 4 bytes.
+the Certificate Table entry in the optional Windows specific header. 8 bytes.
+the Digital Certificate section at the end of the file. Variable lengtha
+
+The data in this are ignored by both the signature parsing and hash computation algorithm
+
+Here is the detailed step
+
+Locate beginning of PE header (PE)
+Skip COFF header (+=28 bytes)
+Go to Certification Table Entry in the Windows specific optional PE header (+=120 bytes after COFF; total +=148 bytes)
+Change size of Certificate Table as defined in IMAGE_DATA_DIRECTORY.Size to add the size of the payload.
+Go to location defined IMAGE_DATA_DIRECTORY.VirtualAddress. This is the absolute location of the Certificate Table within the file.
+Change again the size of the header, inside the PKCS1_MODULE_SIGN.dwLength
+This should normally be the last section in the executable; so go to the end and add payload
+Possibly calculate the new checksum of the file

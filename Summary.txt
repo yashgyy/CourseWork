@@ -1,0 +1,32 @@
+﻿* Stuxnet is one of the most sopedicathist virus ever. It does have a 200k lines of code and primarlity 
+targeted to attack specific t archietecture which in this instance is Iranian Nuclear Program. It \
+remain silently in the computer background and destruct itself if its not the intended host.Wildely 
+believed to be made with the collabration of iSRAEL and united states of america
+
+* The Kenzero virus was first discovered on the November 27, 2009, but researchers think it went undetected for a few months prior to the initial discovery.
+Kenzero attacks computers that download files through peer-to-peer networks (P2P). Once the file is opened, the virus locates the victim's browsing history and publishes it online. People can then view the file(s)
+
+* A trojan named "MEMZ" is spread. The creator, Leurak, explained that the trojan was intended as a funny joke,[81] and warns the user that if they proceed, the computer may no longer be usable. It contains complex payloads that corrupt the system, displaying artifacts on the screen as it runs. Once run, the application cannot be closed without causing further damage to the computer, which will stop functioning properly regardless. When the computer is restarted, in place of the bootsplash is a message that reads "Your computer has been trashed by the MEMZ Trojan. Now enjoy the Nyan cat…", which follows with an animation of the Nyan Cat.
+
+* The WannaCry ransomware attack spreads globally. Exploits revealed in the NSA hacking toolkit leak of late 2016 were used to enable the propagation of the malware.[95] Shortly after the news of the infections broke online, a UK cybersecurity researcher in collaboration with others found and activated a "kill switch" hidden within the ransomware, effectively halting the initial wave of its global propagation
+
+* The Regin Trojan horse is discovered. Regin is a dropper that is primarily spread via spoofed Web pages. Once downloaded, Regin quietly downloads extensions of itself, making it difficult to be detected via anti-virus signatures. It is suspected to have been created by the United States and United Kingdom over a period of months or years, as a tool for espionage and mass surveillance.
+
+* The Gameover ZeuS Trojan is discovered. This type of virus steals one's login details on popular Web sites that involve monetary transactions. It works by detecting a login page, then proceeds to inject a malicious code into the page, keystroke logging the computer user's details.
+
+* Ngrbot is a worm that uses the IRC network for file transfer, sending and receiving commands between zombie network machines and the attacker's IRC server, and monitoring and controlling network connectivity and intercept. It employs a user-mode rootkit technique to hide and steal its victim's information
+
+* The Morto worm attempts to propagate itself to additional computers via the Microsoft Windows Remote Desktop Protocol (RDP). Morto spreads by forcing infected systems to scan for Windows servers allowing RDP login
+
+* he virus, called "here you have" or "VBMania", is a simple Trojan horse that arrives in the inbox with the odd-but-suggestive subject line "here you have". The body reads "This is The Document I told you about, you can find it Here" or "This is The Free Download Sex Movies, you can find it Here
+
+*  Microsoft announced that a BSoD problem on some Windows machines which was triggered by a batch of Patch Tuesday updates was caused by the Alureon Trojan
+
+
+*  Tiny Banker Trojan (Tinba) makes headlines.[86] Since its discovery, it has been found to have infected more than two dozen major banking institutions in the United States, including TD Bank, Chase, HSBC, Wells Fargo, PNC and Bank of America.[87][88] Tiny Banker Trojan uses HTTP injection to force the user's computer to believe that it is on the bank's website. This spoof page will look and function just as the real one. The user then enters their information to log on, at which point Tinba can launch the bank webpage's "incorrect login information" re [1] turn, and redirect the user to the real website
+
+----------------------------------------------------------------------------------------------------------------
+-------------------------
+
+
+https://github.com/TheFox/keylogger  The one of open source KEYLOGGER

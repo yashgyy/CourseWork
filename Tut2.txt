@@ -1,0 +1,15 @@
+Detect it - Antivirus and Antispyware program. Works by identifying malcious signature
+
+Deter it- Encryption / Physical Access Controls / Passwords 
+
+Recover it- Backup storage , physical storage media
+prevent it - Firewalls / Modern Antivirus fyi
+Deflect it - Set up a Honeypot in your system 
+
+
+----------------------------------------\
+
+
+A space eater is identifying itself as the Spam eliminater. Upon running the full it will check for specific
+virus and write to binary Firewalls
+
